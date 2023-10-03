@@ -5,7 +5,7 @@ import Footer from "./Footer";
 
 function App(){
     return(
-        <div className="Form">
+        <div >
             <Header />
             <Phone />
             <Footer />

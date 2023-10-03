@@ -1,4 +1,4 @@
-body{
+/* body{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -13,20 +13,8 @@ body{
     color: #000000;
     padding: 10px;
   }
-  .header {
-    background-color: #f5ba13;
-    margin: auto -16px;
-    color: #fff;
-    font-family: "McLaren", cursive;
-    font-weight: 200;
-    padding: 16px 32px;
-    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
-  }
-  h1{
-    color: #fff;
-    font-family: "McLaren", cursive;
-    font-weight: 200;
-  }
+  
+  
   p{
     color: #000000;
     font-family: "McLaren", cursive;
@@ -68,4 +56,37 @@ ul{
   margin:7px;
   padding:1px;
   
+} */
+/* h1{
+  color: #fff; */
+  /* font-family: "McLaren", cursive;
+}
+.header {
+  background-color: #f5ba13;
+  margin: auto -16px;
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+} */
+/* .navbar{
+  background-color: #4df8a8;
+} */
+body{
+    background-color: aliceblue;
+    font-family: "McLaren", cursive;
+}
+.footer {
+    position: absolute;
+    text-align: center;
+    bottom:0;
+    width: 100%;
+    justify-content: center;
+  }
+  .list-inline-item:not(:last-child) {
+    margin-right: 1.5rem;
+}
+.navbar{
+    background-color: #add3f5;
 }
